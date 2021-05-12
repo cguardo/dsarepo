@@ -36,3 +36,5 @@ print("Scores 11 - 20 : ", count_two)
 print("Scores 21 - 30 : ", count_three)
 print("Scores 31 - 40 : ", count_four)
 print("Scores 41 - 50 : ", count_five)
+
+#PIGHATI TIHHH
